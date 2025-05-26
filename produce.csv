@@ -1,0 +1,62 @@
+Produce Name,Type,Seasonality,Nutritional Value,Culinary Uses,Notes
+Tomato,Fruit,Summer,"Vitamin C, Potassium, Folate, Vitamin K","Salads, Sauces, Soups",Requires full sun and regular watering
+Cucumber,Vegetable,Summer,"Vitamin K, Vitamin C, Magnesium, Potassium","Salads, Pickles, Sandwiches",Prefers well-drained soil and full sun
+Basil,Herb,Summer,"Vitamin K, Vitamin A, Vitamin C, Calcium","Pesto, Salads, Sauces",Needs warm weather and plenty of sunlight
+Capsicum,Vegetable,Summer,"Vitamin C, Vitamin A, Vitamin B6, Folate","Stir-fries, Salads, Stuffed",Thrives in warm temperatures and full sun
+Eggplant,Vegetable,Summer,"Fiber, Vitamin B1, Vitamin B6, Potassium","Grilled, Roasted, Stews",Prefers warm soil and consistent moisture
+Zucchini,Vegetable,Summer,"Vitamin C, Vitamin A, Manganese, Potassium","Grilled, Baked, Stir-fries",Requires full sun and regular watering
+Strawberry,Fruit,"Spring, Summer","Vitamin C, Manganese, Folate, Potassium","Desserts, Smoothies, Salads",Needs well-drained soil and full sun
+Mint,Herb,"Spring, Summer","Vitamin A, Iron, Manganese, Folate","Teas, Salads, Sauces",Grows well in partial shade and moist soil
+Lettuce,Vegetable,"Spring, Fall","Vitamin K, Vitamin A, Folate, Iron","Salads, Sandwiches, Wraps",Prefers cooler temperatures and partial shade
+Carrot,Vegetable,"Spring, Fall","Vitamin A, Biotin, Vitamin K, Potassium","Salads, Soups, Stews","Grows best in loose, sandy soil"
+Corn,Vegetable,Summer,"Carbohydrates, Fiber, Vitamin B","Grilled, Boiled, Salads",Needs full sun and well-drained soil
+Chilli,Vegetable,Summer,"Vitamin C, Capsaicin, Vitamin A","Sauces, Curries, Pickles","Thrives in warm, sunny conditions"
+Watermelon,Fruit,Summer,"Vitamin C, Lycopene, Potassium","Fresh, Juices, Salads","Requires space, heat, and moisture"
+Rockmelon,Fruit,Summer,"Vitamin A, Vitamin C, Potassium","Fresh, Smoothies, Salads",Prefers sandy soil and warmth
+Pumpkin,Vegetable,Summer,"Vitamin A, Fiber, Potassium","Roasted, Soups, Pies",Needs long growing season and sun
+Sweet Potato,Vegetable,Summer,"Beta-carotene, Fiber, Vitamin C","Roasted, Baked, Fries","Prefers loose, well-drained soil"
+Okra,Vegetable,Summer,"Vitamin C, Folate, Magnesium","Stir-fries, Stews, Curries","Heat-loving, harvest when young"
+Passionfruit,Fruit,Summer,"Vitamin C, Fiber, Iron","Desserts, Juices, Salads",Requires trellis and full sun
+Pineapple,Fruit,Summer,"Vitamin C, Manganese, Bromelain","Fresh, Juices, Desserts","Needs warm temperatures, slow grower"
+Mango,Fruit,Summer,"Vitamin C, Vitamin A, Fiber","Smoothies, Salads, Chutneys","Large tree, drought-tolerant once mature"
+Guava,Fruit,Summer,"Vitamin C, Fiber, Potassium","Juices, Jams, Fresh",Hardy and drought-resistant
+Pawpaw (Papaya),Fruit,Summer,"Vitamin C, Folate, Antioxidants","Salads, Smoothies, Desserts",Needs warmth and rich soil
+Banana,Fruit,Summer,"Potassium, Vitamin B6, Vitamin C","Smoothies, Baked goods, Fresh","Needs warmth, wind protection"
+Fig,Fruit,Summer,"Fiber, Potassium, Calcium","Fresh, Baked, Preserves","Drought-tolerant, prefers full sun"
+Dragon Fruit,Fruit,Summer,"Vitamin C, Fiber, Antioxidants","Smoothies, Salads, Juices","Needs a trellis, drought-tolerant"
+Tamarillo,Fruit,Summer,"Vitamin C, A, E, Potassium","Sauces, Salads, Jams",Likes warmth and rich soil
+Rosella,Fruit/Herb,Summer,"Vitamin C, Antioxidants","Teas, Jams, Sauces","Short-lived shrub, full sun"
+Snake Bean,Vegetable,Summer,"Protein, Fiber, Vitamin A","Stir-fries, Curries, Soups","Heat-tolerant, climbing vine"
+Yardlong Bean,Vegetable,Summer,"Vitamin A, Vitamin C, Fiber","Stir-fries, Curries",Requires support and full sun
+Amaranth (Leaves),Vegetable,Summer,"Iron, Calcium, Vitamin C","Stir-fries, Stews, Soups",Thrives in heat and low water
+Kangkung (Water Spinach),Vegetable,Summer,"Vitamin A, C, Calcium","Stir-fries, Soups, Salads",Loves heat and water
+Taro,Vegetable,Summer,"Carbohydrates, Fiber, Potassium","Boiled, Stews, Roasted",Needs moist soil and warmth
+Malabar Spinach,Vegetable,Summer,"Vitamin A, C, Iron","Stir-fries, Salads",Heat-tolerant climber
+Choko (Chayote),Vegetable,Summer,"Vitamin C, Fiber, Folate","Stews, Roasted, Boiled","Vigorous vine, needs space"
+Cassava,Vegetable,Summer,"Carbohydrates, Fiber","Boiled, Fried, Baked",Requires long warm season
+Lemongrass,Herb,Summer,"Antioxidants, Essential oils","Teas, Soups, Curries",Needs full sun and good drainage
+Coriander,Herb,"Spring, Summer","Vitamin C, K, Iron","Curries, Salsas, Salads","Bolts in heat, sow in partial shade"
+Thai Basil,Herb,Summer,"Vitamin A, C, K","Curries, Soups, Salads","Heat-tolerant, frequent harvest"
+Dill,Herb,"Spring, Summer","Vitamin A, C, Calcium","Pickles, Salads, Sauces",Prefers sun and regular moisture
+Spring Onion,Vegetable,Year-round,"Vitamin K, C, Folate","Stir-fries, Garnish, Soups","Quick grower, prefers full sun"
+Shallot,Vegetable,Summer,"Vitamin B6, Folate, Antioxidants","Stir-fries, Sauces",Needs well-drained soil
+Beetroot,Vegetable,"Spring, Fall","Folate, Manganese, Fiber","Roasted, Juices, Salads","Prefers rich, loose soil"
+Radish,Vegetable,"Spring, Fall","Vitamin C, Folate, Potassium","Salads, Pickles","Fast grower, harvest young"
+Celery,Vegetable,"Spring, Fall","Vitamin K, A, Folate","Soups, Salads, Snacks",Needs lots of water and rich soil
+Leek,Vegetable,"Fall, Winter","Vitamin K, A, Folate","Soups, Roasted, Stir-fries",Requires cool temps to grow well
+Broccoli,Vegetable,Winter,"Vitamin C, K, Fiber","Stir-fries, Roasted, Soups",Needs cooler conditions
+Kale,Vegetable,"Fall, Winter","Vitamin K, A, C","Salads, Stir-fries, Chips",Tolerates some heat but best in cool
+Silverbeet,Vegetable,Year-round,"Vitamin K, A, Iron","Stir-fries, Soups, Quiches",Hardy and easy to grow
+Mustard Greens,Vegetable,"Fall, Winter","Vitamin K, A, C","Stir-fries, Soups, Pickled","Spicy leaves, quick grower"
+Turnip,Vegetable,"Fall, Winter","Vitamin C, Fiber, Potassium","Roasted, Stews, Pickled",Grows quickly in cool temps
+Daikon Radish,Vegetable,"Fall, Winter","Vitamin C, Folate","Salads, Stir-fries, Pickles",Prefers loose soil
+Bok Choy,Vegetable,"Fall, Winter","Vitamin A, C, Calcium","Stir-fries, Soups","Quick to mature, water regularly"
+Pak Choy,Vegetable,"Fall, Winter","Vitamin A, C, Folate","Stir-fries, Soups",Prefers cooler climates
+Chinese Cabbage,Vegetable,"Fall, Winter","Vitamin C, K, Folate","Stir-fries, Pickles","Cool-season crop, fast-growing"
+Turmeric,Herb,Summer,"Curcumin, Iron, Manganese","Curries, Juices, Teas","Prefers warm, humid conditions"
+Ginger,Herb,Summer,"Gingerol, Vitamin B6, Magnesium","Curries, Teas, Sauces",Needs warmth and moisture
+Galangal,Herb,Summer,"Antioxidants, Iron","Curries, Soups, Marinades",Needs tropical conditions
+Curry Leaf,Herb,Year-round,"Iron, Calcium","Curries, Soups",Grows best in warm climates
+Kaffir Lime,Fruit/Herb,Year-round,"Vitamin C, Antioxidants","Thai cuisine, Soups",Needs warmth and humidity
+Edamame (Soybeans),Legume,Summer,"Protein, Fiber, Iron","Boiled, Stir-fries","Warm season, well-drained soil"
+Peanuts,Legume,Summer,"Protein, Healthy fats, Vitamin E","Roasted, Sauces, Snacks",Thrives in sandy soil and heat
