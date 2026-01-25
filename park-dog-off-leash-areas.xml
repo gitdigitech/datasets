@@ -1,0 +1,2239 @@
+<?xml version="1.0" ?>
+<parks>
+  <park id="1">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (GYMPIE RD SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2145</park_number>
+    <park_name>GYMPIE RD (NO 1) PARK</park_name>
+    <suburb>KEDRON</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03770222645863</long>
+    <lat>-27.411983601483307</lat>
+  </park>
+  <park id="2">
+    <park_description>PIONEER CRES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1119</park_number>
+    <park_name>PIONEER CRESCENT PARK</park_name>
+    <suburb>BELLBOWRIE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.8720425974479</long>
+    <lat>-27.5612829323019</lat>
+  </park>
+  <park id="3">
+    <park_description>KOOKABURRA PK WEST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1886</park_number>
+    <park_name>KOOKABURRA PARK - WEST</park_name>
+    <suburb>KARANA DOWNS</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.8393822100445</long>
+    <lat>-27.54422740735636</lat>
+  </park>
+  <park id="4">
+    <park_description>GREENWAYS ESP DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1617</park_number>
+    <park_name>GREENWAYS ESPLANADE PARK</park_name>
+    <suburb>PARKINSON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.01984493845796</long>
+    <lat>-27.636032111612234</lat>
+  </park>
+  <park id="5">
+    <park_description>SUMNERS RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2031</park_number>
+    <park_name>WOLSTON CREEK BUSHLAND RESERVE</park_name>
+    <suburb>RIVERHILLS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.90267601508427</long>
+    <lat>-27.563596772193435</lat>
+  </park>
+  <park id="6">
+    <park_description>ANZAC PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0467</park_number>
+    <park_name>ANZAC PARK</park_name>
+    <suburb>TOOWONG</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.9767867175604</long>
+    <lat>-27.480172450339445</lat>
+  </park>
+  <park id="7">
+    <park_description>BOTTICELLI ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1323</park_number>
+    <park_name>MACTIER STREET PARK</park_name>
+    <suburb>FIG TREE POCKET</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.96516130928765</long>
+    <lat>-27.539168754834588</lat>
+  </park>
+  <park id="8">
+    <park_description>GRANADILLA ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0559</park_number>
+    <park_name>D.M.HENDERSON PARK</park_name>
+    <suburb>MACGREGOR</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.07230853066542</long>
+    <lat>-27.56942926937593</lat>
+  </park>
+  <park id="9">
+    <park_description>HOLMEAD PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0624</park_number>
+    <park_name>HOLMEAD PARK</park_name>
+    <suburb>EIGHT MILE PLAINS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.09141012674814</long>
+    <lat>-27.568182703383968</lat>
+  </park>
+  <park id="10">
+    <park_description>BILL LAMOND PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0861</park_number>
+    <park_name>DON RANDALL PARK</park_name>
+    <suburb>LOTA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.18531018973528</long>
+    <lat>-27.47242505920367</lat>
+  </park>
+  <park id="11">
+    <park_description>STANNARD RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0528</park_number>
+    <park_name>STANNARD ROAD PARK</park_name>
+    <suburb>MANLY WEST</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.168673123002</long>
+    <lat>-27.461232426143404</lat>
+  </park>
+  <park id="12">
+    <park_description>WATERLOO ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D3192</park_number>
+    <park_name>WATERFRONT PARK</park_name>
+    <suburb>NEWSTEAD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.04504114980602</long>
+    <lat>-27.44871050237946</lat>
+  </park>
+  <park id="13">
+    <park_description>SANDGATE FORESHORE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0276</park_number>
+    <park_name>SANDGATE FORESHORES PARK</park_name>
+    <suburb>SANDGATE</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.07662708967268</long>
+    <lat>-27.3192838945015</lat>
+  </park>
+  <park id="14">
+    <park_description>PATEN PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0140</park_number>
+    <park_name>PATEN PARK</park_name>
+    <suburb>THE GAP</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.95255358345426</long>
+    <lat>-27.451664149596777</lat>
+  </park>
+  <park id="15">
+    <park_description>HEROES AVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0480</park_number>
+    <park_name>PERRIN PARK</park_name>
+    <suburb>TOOWONG</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.99228090608486</long>
+    <lat>-27.491928510350526</lat>
+  </park>
+  <park id="16">
+    <park_description>MILTON PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0477</park_number>
+    <park_name>MILTON PARK</park_name>
+    <suburb>MILTON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00100703659493</long>
+    <lat>-27.47125756611361</lat>
+  </park>
+  <park id="17">
+    <park_description>EVANS RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2311</park_number>
+    <park_name>EVANS ROAD PARK</park_name>
+    <suburb>MOOROOKA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0215389157141</long>
+    <lat>-27.543080557881805</lat>
+  </park>
+  <park id="18">
+    <park_description>BAINES ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0097</park_number>
+    <park_name>RAYMOND PARK</park_name>
+    <suburb>KANGAROO POINT</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03977501931752</long>
+    <lat>-27.481287414580425</lat>
+  </park>
+  <park id="19">
+    <park_description>ROGHAN RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0804</park_number>
+    <park_name>BILL BROWN SPORTS RESERVE</park_name>
+    <suburb>FITZGIBBON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03478158123494</long>
+    <lat>-27.33915177790309</lat>
+  </park>
+  <park id="20">
+    <park_description>MACQUARIE WAY DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1848</park_number>
+    <park_name>DAMPIER CRESCENT PARK</park_name>
+    <suburb>DREWVALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.05753179661676</long>
+    <lat>-27.653719732856846</lat>
+  </park>
+  <park id="21">
+    <park_description>PERTH ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0113</park_number>
+    <park_name>PERTH STREET PARK</park_name>
+    <suburb>CAMP HILL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.075961854052</long>
+    <lat>-27.48616383786781</lat>
+  </park>
+  <park id="22">
+    <park_description>KIMBERLEY ST DOG OFF LEASH AREA (C J GREENFIELD)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0564</park_number>
+    <park_name>C.J.GREENFIELD COMPLEX PARK</park_name>
+    <suburb>RICHLANDS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.96739279232372</long>
+    <lat>-27.578354817377228</lat>
+  </park>
+  <park id="23">
+    <park_description>CAMPBELL ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1904</park_number>
+    <park_name>PHILLIPS PLACE PARK (WAKERLEY)</park_name>
+    <suburb>WAKERLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.14599859238277</long>
+    <lat>-27.48290689272719</lat>
+  </park>
+  <park id="24">
+    <park_description>MITCHELL ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0579</park_number>
+    <park_name>MARNHAM STREET PARK</park_name>
+    <suburb>ACACIA RIDGE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.02615524631832</long>
+    <lat>-27.593305455346094</lat>
+  </park>
+  <park id="25">
+    <park_description>KARRI PLACE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1328</park_number>
+    <park_name>JIM WILDING RESERVE</park_name>
+    <suburb>BRIDGEMAN DOWNS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.99809896307085</long>
+    <lat>-27.36617841596179</lat>
+  </park>
+  <park id="26">
+    <park_description>BARRETT ST RES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1394</park_number>
+    <park_name>BARRETT STREET PARK (WATER RESERVE)</park_name>
+    <suburb>BRACKEN RIDGE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.03193682829158</long>
+    <lat>-27.321436638523856</lat>
+  </park>
+  <park id="27">
+    <park_description>CAPITOL DRIVE UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0651</park_number>
+    <park_name>CAPITOL DRIVE PARK</park_name>
+    <suburb>JINDALEE</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.94454388336337</long>
+    <lat>-27.53972866732666</lat>
+  </park>
+  <park id="28">
+    <park_description>DOULTON ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2616</park_number>
+    <park_name>DOULTON STREET PARK</park_name>
+    <suburb>CALAMVALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0487369298748</long>
+    <lat>-27.637339734184486</lat>
+  </park>
+  <park id="29">
+    <park_description>ANNIE ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0088</park_number>
+    <park_name>JAMES WARNER PARK</park_name>
+    <suburb>KANGAROO POINT</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03420403165066</long>
+    <lat>-27.466815972134132</lat>
+  </park>
+  <park id="30">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (WALLY BOURKE PK SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0199</park_number>
+    <park_name>WALLY BOURKE PARK</park_name>
+    <suburb>GORDON PARK</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0296230397964</long>
+    <lat>-27.42137118522239</lat>
+  </park>
+  <park id="31">
+    <park_description>GREENHILL RESERVOIR DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1430</park_number>
+    <park_name>GREEN HILL RESERVOIR PARK</park_name>
+    <suburb>CHAPEL HILL</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.95824076200006</long>
+    <lat>-27.49602408399994</lat>
+  </park>
+  <park id="32">
+    <park_description>POWERHOUSE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1535</park_number>
+    <park_name>POWERHOUSE PARK</park_name>
+    <suburb>NEW FARM</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.05388115961534</long>
+    <lat>-27.46737366226252</lat>
+  </park>
+  <park id="33">
+    <park_description>PAT RAFTER PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1576</park_number>
+    <park_name>PAT RAFTER PARK</park_name>
+    <suburb>CARSELDINE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00924904591707</long>
+    <lat>-27.340943004957698</lat>
+  </park>
+  <park id="34">
+    <park_description>WOOLLOONGABBA ROTARY PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0360</park_number>
+    <park_name>WOOLLOONGABBA ROTARY PARK</park_name>
+    <suburb>EAST BRISBANE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.04276884830853</long>
+    <lat>-27.490290496411113</lat>
+  </park>
+  <park id="35">
+    <park_description>GUS DAVIES PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1075</park_number>
+    <park_name>GUS DAVIES PARK</park_name>
+    <suburb>BALD HILLS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0198118933408</long>
+    <lat>-27.306993489423313</lat>
+  </park>
+  <park id="36">
+    <park_description>JOE BRADFIELD PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0062</park_number>
+    <park_name>JOE BRADFIELD CENTRE PARK</park_name>
+    <suburb>CARINA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.09170659583063</long>
+    <lat>-27.49185860225702</lat>
+  </park>
+  <park id="37">
+    <park_description>ABBEVILLE ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0432</park_number>
+    <park_name>ABBEVILLE STREET PARK</park_name>
+    <suburb>UPPER MOUNT GRAVATT</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.08951128597982</long>
+    <lat>-27.544644815477355</lat>
+  </park>
+  <park id="38">
+    <park_description>BOONDALL PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0238</park_number>
+    <park_name>BOONDALL PARK</park_name>
+    <suburb>BOONDALL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.05626304888503</long>
+    <lat>-27.33824543675303</lat>
+  </park>
+  <park id="39">
+    <park_description>CANTERBURY PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0660</park_number>
+    <park_name>CANTERBURY PARK</park_name>
+    <suburb>BALD HILLS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.00811513276543</long>
+    <lat>-27.30455830825857</lat>
+  </park>
+  <park id="40">
+    <park_description>KENWYN RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0191</park_number>
+    <park_name>GILBERT PARK</park_name>
+    <suburb>RED HILL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9968566363843</long>
+    <lat>-27.449422238047894</lat>
+  </park>
+  <park id="41">
+    <park_description>JACKSON ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0109</park_number>
+    <park_name>WEMBLEY PARK</park_name>
+    <suburb>COORPAROO</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.06346205227302</long>
+    <lat>-27.489355937765797</lat>
+  </park>
+  <park id="42">
+    <park_description>BURWOOD RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0208</park_number>
+    <park_name>TERALBA PARK</park_name>
+    <suburb>EVERTON PARK</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.98287259193125</long>
+    <lat>-27.40790321909198</lat>
+  </park>
+  <park id="43">
+    <park_description>SHAND ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1651</park_number>
+    <park_name>SHAND STREET PARK (NO.100)</park_name>
+    <suburb>STAFFORD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00394239965703</long>
+    <lat>-27.414086912373865</lat>
+  </park>
+  <park id="44">
+    <park_description>QUINN ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0027</park_number>
+    <park_name>QUINN'S STREET PARK</park_name>
+    <suburb>BALMORAL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.07085999419368</long>
+    <lat>-27.458117948634754</lat>
+  </park>
+  <park id="45">
+    <park_description>WYNNUM RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0040</park_number>
+    <park_name>KIANAWAH PARK</park_name>
+    <suburb>TINGALPA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.1262981113238</long>
+    <lat>-27.47521402481859</lat>
+  </park>
+  <park id="46">
+    <park_description>GLADSTONE RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0355</park_number>
+    <park_name>DUTTON PARK</park_name>
+    <suburb>DUTTON PARK</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0260519078111</long>
+    <lat>-27.496939911825788</lat>
+  </park>
+  <park id="47">
+    <park_description>SEDGLEY PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0127</park_number>
+    <park_name>SEDGLEY PARK</park_name>
+    <suburb>ALDERLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00592524964605</long>
+    <lat>-27.42905379915658</lat>
+  </park>
+  <park id="48">
+    <park_description>ROY HARVEY PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0205</park_number>
+    <park_name>ROY HARVEY PARK</park_name>
+    <suburb>STAFFORD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.00699313364538</long>
+    <lat>-27.410920662176903</lat>
+  </park>
+  <park id="49">
+    <park_description>NEAL MACROSSAN PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0174</park_number>
+    <park_name>NEAL MACROSSAN PLAYGROUND PARK</park_name>
+    <suburb>PADDINGTON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00997891232262</long>
+    <lat>-27.46228061625409</lat>
+  </park>
+  <park id="50">
+    <park_description>STACKPOLE ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0435</park_number>
+    <park_name>BOORABBIN PICNIC GROUND</park_name>
+    <suburb>WISHART</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.11077861290332</long>
+    <lat>-27.552990218770724</lat>
+  </park>
+  <park id="51">
+    <park_description>FAIRFIELD PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0375</park_number>
+    <park_name>FAIRFIELD PARK</park_name>
+    <suburb>FAIRFIELD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0266222955373</long>
+    <lat>-27.503128031843136</lat>
+  </park>
+  <park id="52">
+    <park_description>WARATAH AVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0010</park_number>
+    <park_name>FAULKNER PARK</park_name>
+    <suburb>GRACEVILLE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.98622516680624</long>
+    <lat>-27.51886070314954</lat>
+  </park>
+  <park id="53">
+    <park_description>MEIERS RD (SOUTH)) DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0420</park_number>
+    <park_name>SIR JOHN CHANDLER PARK</park_name>
+    <suburb>INDOOROOPILLY</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0083699080077</long>
+    <lat>-27.518778077265623</lat>
+  </park>
+  <park id="54">
+    <park_description>MEADOWLANDS RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0597</park_number>
+    <park_name>PRESTON ROAD PARK</park_name>
+    <suburb>CARINA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.11710570366432</long>
+    <lat>-27.492995961512303</lat>
+  </park>
+  <park id="55">
+    <park_description>NUDGEE REC RESERVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0440</park_number>
+    <park_name>NUDGEE RECREATION RESERVE</park_name>
+    <suburb>NUDGEE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.08205455738513</long>
+    <lat>-27.365804353524652</lat>
+  </park>
+  <park id="56">
+    <park_description>ALUTHA RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0637</park_number>
+    <park_name>WITTONGA PARK</park_name>
+    <suburb>THE GAP</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.93225851851594</long>
+    <lat>-27.439662058272436</lat>
+  </park>
+  <park id="57">
+    <park_description>BYRNE'S PADDOCK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2196</park_number>
+    <park_name>BYRNE'S PADDOCK PARK</park_name>
+    <suburb>WINDSOR</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03171543189794</long>
+    <lat>-27.440292354477098</lat>
+  </park>
+  <park id="58">
+    <park_description>GLINDEMANN PK UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0064</park_number>
+    <park_name>GLINDEMANN PARK</park_name>
+    <suburb>HOLLAND PARK WEST</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0677736087107</long>
+    <lat>-27.523891826363258</lat>
+  </park>
+  <park id="59">
+    <park_description>DUGGAN &amp; DASH DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0706</park_number>
+    <park_name>DASH STREET PARK</park_name>
+    <suburb>KEPERRA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.9558144042051</long>
+    <lat>-27.409217415997677</lat>
+  </park>
+  <park id="60">
+    <park_description>BOUNDARY RD DOG OFF LEASH AREA (WHITES HILL RES)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0056</park_number>
+    <park_name>WHITES HILL RESERVE</park_name>
+    <suburb>CAMP HILL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.07415313215458</long>
+    <lat>-27.51469066832881</lat>
+  </park>
+  <park id="61">
+    <park_description>HERCULES ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0699</park_number>
+    <park_name>HERCULES STREET PARK</park_name>
+    <suburb>HAMILTON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.06903818202463</long>
+    <lat>-27.438428183278052</lat>
+  </park>
+  <park id="62">
+    <park_description>ROYAL TCE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0169</park_number>
+    <park_name>CROSBY PARK</park_name>
+    <suburb>ALBION</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0482403467024</long>
+    <lat>-27.43591506780164</lat>
+  </park>
+  <park id="63">
+    <park_description>BERTHA ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0463</park_number>
+    <park_name>KALINGA PARK</park_name>
+    <suburb>KALINGA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.05096663854408</long>
+    <lat>-27.406466676956835</lat>
+  </park>
+  <park id="64">
+    <park_description>LACEY RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2252</park_number>
+    <park_name>LACEY ROAD PARK</park_name>
+    <suburb>CARSELDINE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0167166161811</long>
+    <lat>-27.336740800167284</lat>
+  </park>
+  <park id="65">
+    <park_description>MANCHESTER ST UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1961</park_number>
+    <park_name>BUCKINGHAM PLACE PARK</park_name>
+    <suburb>EIGHT MILE PLAINS</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.09625097943103</long>
+    <lat>-27.575249122247925</lat>
+  </park>
+  <park id="66">
+    <park_description>COLLEGE AVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1566</park_number>
+    <park_name>FOREST LAKE SPORTS FIELDS</park_name>
+    <suburb>FOREST LAKE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.9718076990752</long>
+    <lat>-27.61902747078076</lat>
+  </park>
+  <park id="67">
+    <park_description>KERYN PLACE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1177</park_number>
+    <park_name>KERYN PLACE PARK</park_name>
+    <suburb>KEPERRA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.9456812471446</long>
+    <lat>-27.420728739761156</lat>
+  </park>
+  <park id="68">
+    <park_description>ARRUNGA ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0730</park_number>
+    <park_name>BERYL ROBERTS PARK</park_name>
+    <suburb>COOPERS PLAINS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.04391892849196</long>
+    <lat>-27.56565124138678</lat>
+  </park>
+  <park id="69">
+    <park_description>THOMAS ST PK UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1735</park_number>
+    <park_name>ERNA BRAZIER PARK</park_name>
+    <suburb>SHERWOOD</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.99045709587995</long>
+    <lat>-27.531143444379218</lat>
+  </park>
+  <park id="70">
+    <park_description>SCOTT ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0050</park_number>
+    <park_name>VECTIS STREET PARK</park_name>
+    <suburb>NORMAN PARK</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.05803316609862</long>
+    <lat>-27.480180518390313</lat>
+  </park>
+  <park id="71">
+    <park_description>DECKER PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0275</park_number>
+    <park_name>DECKER PARK</park_name>
+    <suburb>BRIGHTON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.06340229826395</long>
+    <lat>-27.28615284840783</lat>
+  </park>
+  <park id="72">
+    <park_description>COLLEGE WAY DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1470</park_number>
+    <park_name>NORTHUMBRIA ROAD PARK</park_name>
+    <suburb>BOONDALL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0734984408267</long>
+    <lat>-27.357368248988937</lat>
+  </park>
+  <park id="73">
+    <park_description>MURPHY RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0227</park_number>
+    <park_name>MARCHANT PARK</park_name>
+    <suburb>ASPLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03033980382963</long>
+    <lat>-27.377303176918094</lat>
+  </park>
+  <park id="74">
+    <park_description>BANCROFT PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0197</park_number>
+    <park_name>BANCROFT PARK</park_name>
+    <suburb>KELVIN GROVE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00636607242993</long>
+    <lat>-27.443519705341576</lat>
+  </park>
+  <park id="75">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (ARCHER ST SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0201</park_number>
+    <park_name>ARCHER STREET PARK</park_name>
+    <suburb>GORDON PARK</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.02531790656926</long>
+    <lat>-27.422002979583468</lat>
+  </park>
+  <park id="76">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (THISTLE ST SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1994</park_number>
+    <park_name>THISTLE STREET PARK (NO.74)</park_name>
+    <suburb>GORDON PARK</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03108812005763</long>
+    <lat>-27.420497697085832</lat>
+  </park>
+  <park id="77">
+    <park_description>BARCOORAH ST PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1261</park_number>
+    <park_name>BARCOORAH STREET PARK</park_name>
+    <suburb>WESTLAKE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.90472320547713</long>
+    <lat>-27.547754917689073</lat>
+  </park>
+  <park id="78">
+    <park_description>HEPWORTH ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0253</park_number>
+    <park_name>CUBBERLA CREEK RESERVE</park_name>
+    <suburb>CHAPEL HILL</suburb>
+    <fencing>PARTIALLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9504057737091</long>
+    <lat>-27.513912591913137</lat>
+  </park>
+  <park id="79">
+    <park_description>ROBINSON RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1268</park_number>
+    <park_name>ROBINSON PARK (TINGALPA)</park_name>
+    <suburb>TINGALPA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.14820736684223</long>
+    <lat>-27.469126866350486</lat>
+  </park>
+  <park id="80">
+    <park_description>BURNIE BRAE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0231</park_number>
+    <park_name>BURNIE BRAE PARK</park_name>
+    <suburb>CHERMSIDE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0345512182377</long>
+    <lat>-27.38905852541237</lat>
+  </park>
+  <park id="81">
+    <park_description>DELAPINE PLACE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1203</park_number>
+    <park_name>DELAPINE PLACE PARK</park_name>
+    <suburb>SEVENTEEN MILE ROCKS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9608115904835</long>
+    <lat>-27.546982358743676</lat>
+  </park>
+  <park id="82">
+    <park_description>CARAWA STREET PARK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2104</park_number>
+    <park_name>CARAWA STREET PARK</park_name>
+    <suburb>ST LUCIA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.99094901269058</long>
+    <lat>-27.502665731866802</lat>
+  </park>
+  <park id="83">
+    <park_description>TONES RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0599</park_number>
+    <park_name>RON WOOLLEY PLACE</park_name>
+    <suburb>MANSFIELD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.1100134104114</long>
+    <lat>-27.530781161854584</lat>
+  </park>
+  <park id="84">
+    <park_description>STAVELEY CLOSE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1823</park_number>
+    <park_name>THOMAS MACLEOD PARK</park_name>
+    <suburb>SINNAMON PARK</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.95581585903813</long>
+    <lat>-27.539090438318308</lat>
+  </park>
+  <park id="85">
+    <park_description>HONOUR AVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0389</park_number>
+    <park_name>YERONGA MEMORIAL PARK</park_name>
+    <suburb>YERONGA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0224001901087</long>
+    <lat>-27.519150309710582</lat>
+  </park>
+  <park id="86">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (KOKODA PK SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0200</park_number>
+    <park_name>KOKODA PARK</park_name>
+    <suburb>GORDON PARK</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.02726381947656</long>
+    <lat>-27.42191318527592</lat>
+  </park>
+  <park id="87">
+    <park_description>MT CROSBY SPORTSGROUND DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1939</park_number>
+    <park_name>MT CROSBY SPORTSGROUND</park_name>
+    <suburb>CHUWAR</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.79522518523427</long>
+    <lat>-27.53899248219037</lat>
+  </park>
+  <park id="88">
+    <park_description>EVANS RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0553</park_number>
+    <park_name>SALISBURY RECREATION RESERVE</park_name>
+    <suburb>SALISBURY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0374182189828</long>
+    <lat>-27.54642433885758</lat>
+  </park>
+  <park id="89">
+    <park_description>FRENEY ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0549</park_number>
+    <park_name>FRENEY STREET PARK</park_name>
+    <suburb>ROCKLEA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.01653813594814</long>
+    <lat>-27.55248383867656</lat>
+  </park>
+  <park id="90">
+    <park_description>SHAFTESBURY ST PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0398</park_number>
+    <park_name>SHAFTESBURY STREET PARK</park_name>
+    <suburb>TARRAGINDI</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.04145130262128</long>
+    <lat>-27.519441551768722</lat>
+  </park>
+  <park id="91">
+    <park_description>KERALGERIE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1858</park_number>
+    <park_name>KERALGERIE PARK</park_name>
+    <suburb>MORNINGSIDE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.079314965555</long>
+    <lat>-27.473881307269068</lat>
+  </park>
+  <park id="92">
+    <park_description>MORNINGTON ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0499</park_number>
+    <park_name>GRANGE FOREST PARK</park_name>
+    <suburb>GRANGE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00925014336292</long>
+    <lat>-27.41490954600981</lat>
+  </park>
+  <park id="93">
+    <park_description>JINDALEE BOAT RAMP DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0338</park_number>
+    <park_name>JINDALEE BOAT RAMP PARK</park_name>
+    <suburb>JINDALEE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.92981094589132</long>
+    <lat>-27.528988035927494</lat>
+  </park>
+  <park id="94">
+    <park_description>COLMSLIE RES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0035</park_number>
+    <park_name>COLMSLIE RESERVE</park_name>
+    <suburb>MORNINGSIDE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0836083427143</long>
+    <lat>-27.450506670735535</lat>
+  </park>
+  <park id="95">
+    <park_description>HEDLEY AVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0464</park_number>
+    <park_name>ALBERT BISHOP PARK</park_name>
+    <suburb>NUNDAH</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.06739700333168</long>
+    <lat>-27.40475898725046</lat>
+  </park>
+  <park id="96">
+    <park_description>RIDGEWOOD RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0765</park_number>
+    <park_name>ENDIANDRA STREET PARK</park_name>
+    <suburb>ALGESTER</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.029738044898</long>
+    <lat>-27.61709047665382</lat>
+  </park>
+  <park id="97">
+    <park_description>RAGNOR RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2163</park_number>
+    <park_name>PAUL CONTI PARK</park_name>
+    <suburb>HEMMANT</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.12863043911625</long>
+    <lat>-27.44999871730895</lat>
+  </park>
+  <park id="98">
+    <park_description>TRAMWAY ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1089</park_number>
+    <park_name>ARBOR STREET PARK</park_name>
+    <suburb>FERNY GROVE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.93925484138444</long>
+    <lat>-27.405435615759274</lat>
+  </park>
+  <park id="99">
+    <park_description>DOWNEY ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1137</park_number>
+    <park_name>NORTHEY STREET PARK</park_name>
+    <suburb>WINDSOR</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.02602990485113</long>
+    <lat>-27.443629237464187</lat>
+  </park>
+  <park id="100">
+    <park_description>YIMBUN PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0664</park_number>
+    <park_name>YIMBUN PARK</park_name>
+    <suburb>SUNNYBANK</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.07359241282168</long>
+    <lat>-27.573997433025195</lat>
+  </park>
+  <park id="101">
+    <park_description>JOHN GOSS RES (MAUNDRELL TCE) DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0662</park_number>
+    <park_name>JOHN GOSS RESERVE</park_name>
+    <suburb>CHERMSIDE WEST</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.01230756794948</long>
+    <lat>-27.378239032148226</lat>
+  </park>
+  <park id="102">
+    <park_description>EDENBROOKE PK DOG OFF LEASH AREA (NEAR BIKEWAY)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1399</park_number>
+    <park_name>EDENBROOKE PARK</park_name>
+    <suburb>SEVENTEEN MILE ROCKS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.95251542813426</long>
+    <lat>-27.55564225155085</lat>
+  </park>
+  <park id="103">
+    <park_description>REAL PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0367</park_number>
+    <park_name>REAL PARK</park_name>
+    <suburb>EAST BRISBANE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.049026428836</long>
+    <lat>-27.480405962504427</lat>
+  </park>
+  <park id="104">
+    <park_description>MANLY FORESHORE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1553</park_number>
+    <park_name>RQYS PORT CENTRE PARK</park_name>
+    <suburb>MANLY</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.19440201524114</long>
+    <lat>-27.458121904166383</lat>
+  </park>
+  <park id="105">
+    <park_description>BLUE GUM PK (BEAMS RD) DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1337</park_number>
+    <park_name>BLUE GUM PARK</park_name>
+    <suburb>ZILLMERE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0357956120439</long>
+    <lat>-27.350240035701585</lat>
+  </park>
+  <park id="106">
+    <park_description>REMICK ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0739</park_number>
+    <park_name>GREY GUM PARK</park_name>
+    <suburb>STAFFORD HEIGHTS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0046523398653</long>
+    <lat>-27.39140518575983</lat>
+  </park>
+  <park id="107">
+    <park_description>ROWENA ST PK UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0263</park_number>
+    <park_name>ROWENA STREET PARK (NO.36)</park_name>
+    <suburb>KENMORE</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9258459772622</long>
+    <lat>-27.518466748301943</lat>
+  </park>
+  <park id="108">
+    <park_description>GOVERNMENT RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1422</park_number>
+    <park_name>RICHLANDS DEPOT PARK</park_name>
+    <suburb>INALA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.95916025756281</long>
+    <lat>-27.599912156888728</lat>
+  </park>
+  <park id="109">
+    <park_description>TIGRIS ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1102</park_number>
+    <park_name>TIGRIS STREET PARK</park_name>
+    <suburb>RIVERHILLS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9081386842237</long>
+    <lat>-27.55812522575702</lat>
+  </park>
+  <park id="110">
+    <park_description>PHIL DENMAN PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1521</park_number>
+    <park_name>PHIL DENMAN PARK</park_name>
+    <suburb>JAMBOREE HEIGHTS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.93014808391882</long>
+    <lat>-27.551713314825726</lat>
+  </park>
+  <park id="111">
+    <park_description>SYCAMORE ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0855</park_number>
+    <park_name>DURELLA STREET PARK</park_name>
+    <suburb>DURACK</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.97849331742162</long>
+    <lat>-27.59769576576994</lat>
+  </park>
+  <park id="112">
+    <park_description>NATHAN RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0607</park_number>
+    <park_name>NATHAN ROAD PARK</park_name>
+    <suburb>RUNCORN</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.07017990198705</long>
+    <lat>-27.586907793438098</lat>
+  </park>
+  <park id="113">
+    <park_description>MONOPLANE ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0869</park_number>
+    <park_name>SUNSET PARK</park_name>
+    <suburb>ASHGROVE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.97419632085666</long>
+    <lat>-27.45171523584876</lat>
+  </park>
+  <park id="114">
+    <park_description>BOYD PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0449</park_number>
+    <park_name>BOYD PARK</park_name>
+    <suburb>NUNDAH</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.05613857555434</long>
+    <lat>-27.400905496233094</lat>
+  </park>
+  <park id="115">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (AMELIA PK SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0248</park_number>
+    <park_name>AMELIA PARK</park_name>
+    <suburb>GORDON PARK</suburb>
+    <fencing>PARTIALLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03191531400012</long>
+    <lat>-27.417481744999975</lat>
+  </park>
+  <park id="116">
+    <park_description>BARUNGWARRA RES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0220</park_number>
+    <park_name>BARUNGWARRA BUSHLAND RESERVE</park_name>
+    <suburb>BALD HILLS</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.01520357848696</long>
+    <lat>-27.30261351054302</lat>
+  </park>
+  <park id="117">
+    <park_description>TUCKEROO PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1264</park_number>
+    <park_name>TUCKEROO PARK</park_name>
+    <suburb>NUDGEE BEACH</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.1059688412936</long>
+    <lat>-27.35051919504406</lat>
+  </park>
+  <park id="118">
+    <park_description>KEDRON BROOK DOG OFF LEASH AND SWIMMING AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1264</park_number>
+    <park_name>TUCKEROO PARK</park_name>
+    <suburb>NUDGEE BEACH</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.10743462147184</long>
+    <lat>-27.349696623787537</lat>
+  </park>
+  <park id="119">
+    <park_description>MURRAY DUSS PK (14TH AVE) DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0245</park_number>
+    <park_name>SHAW ESTATE PARK</park_name>
+    <suburb>WAVELL HEIGHTS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.03968070403232</long>
+    <lat>-27.40130945308941</lat>
+  </park>
+  <park id="120">
+    <park_description>CARINDALE REC RES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0723</park_number>
+    <park_name>CARINDALE RECREATION RESERVE</park_name>
+    <suburb>CARINDALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.10953534356</long>
+    <lat>-27.498258142434867</lat>
+  </park>
+  <park id="121">
+    <park_description>WALLY TATE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0685</park_number>
+    <park_name>WALLY TATE PARK</park_name>
+    <suburb>KURABY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.09049670883104</long>
+    <lat>-27.602081963783775</lat>
+  </park>
+  <park id="122">
+    <park_description>MARTINDALE ST PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1186</park_number>
+    <park_name>MARTINDALE STREET PARK</park_name>
+    <suburb>CHERMSIDE WEST</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.00300573675244</long>
+    <lat>-27.37751090001364</lat>
+  </park>
+  <park id="123">
+    <park_description>ENGLEFIELD RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1484</park_number>
+    <park_name>ENGLEFIELD ROAD PARK (NOS.35-47)</park_name>
+    <suburb>OXLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.9749135169127</long>
+    <lat>-27.557087106224284</lat>
+  </park>
+  <park id="124">
+    <park_description>HABITAT DRIVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2232</park_number>
+    <park_name>SHERIFF PARK</park_name>
+    <suburb>WAKERLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.1626013624279</long>
+    <lat>-27.487357747283088</lat>
+  </park>
+  <park id="125">
+    <park_description>EBRINGTON ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0327</park_number>
+    <park_name>DUCIE STREET PARK</park_name>
+    <suburb>DARRA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.9510913594168</long>
+    <lat>-27.57284197813372</lat>
+  </park>
+  <park id="126">
+    <park_description>BRADBURY PARK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0230</park_number>
+    <park_name>BRADBURY PARK</park_name>
+    <suburb>KEDRON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.02761413334355</long>
+    <lat>-27.39893293363265</lat>
+  </park>
+  <park id="127">
+    <park_description>CHAROLAIS CRES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0150</park_number>
+    <park_name>UPPER KEDRON RECREATION RESERVE</park_name>
+    <suburb>UPPER KEDRON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9235644306496</long>
+    <lat>-27.411715217178067</lat>
+  </park>
+  <park id="128">
+    <park_description>REINHOLD CRES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0228</park_number>
+    <park_name>7TH BRIGADE PARK</park_name>
+    <suburb>CHERMSIDE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0431791498691</long>
+    <lat>-27.381066833034588</lat>
+  </park>
+  <park id="129">
+    <park_description>DOWNFALL CK RES (BRICKYARD RD)  DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0443</park_number>
+    <park_name>DOWNFALL CREEK RESERVE</park_name>
+    <suburb>VIRGINIA</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.056484012552</long>
+    <lat>-27.382691498129773</lat>
+  </park>
+  <park id="130">
+    <park_description>HYACINTH ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0567</park_number>
+    <park_name>KEV HOOPER MEMORIAL PARK</park_name>
+    <suburb>INALA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.97424919873436</long>
+    <lat>-27.59195548037801</lat>
+  </park>
+  <park id="131">
+    <park_description>GLENEFER ST PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1208</park_number>
+    <park_name>GLENEFER STREET PARK</park_name>
+    <suburb>RUNCORN</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.06975713106806</long>
+    <lat>-27.601006515299243</lat>
+  </park>
+  <park id="132">
+    <park_description>ASHRIDGE RD PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2166</park_number>
+    <park_name>ASHRIDGE ROAD PARK</park_name>
+    <suburb>DARRA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.95339923101673</long>
+    <lat>-27.55909606749699</lat>
+  </park>
+  <park id="133">
+    <park_description>HICKEY PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0203</park_number>
+    <park_name>HICKEY PARK</park_name>
+    <suburb>STAFFORD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.02168269681584</long>
+    <lat>-27.416588536482195</lat>
+  </park>
+  <park id="134">
+    <park_description>VICTORIA TCE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0393</park_number>
+    <park_name>EKIBIN PARK EAST</park_name>
+    <suburb>GREENSLOPES</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0408102503117</long>
+    <lat>-27.508023627157428</lat>
+  </park>
+  <park id="135">
+    <park_description>WATERVALE PDE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2050</park_number>
+    <park_name>MOSS ROAD (NO 42) PARK</park_name>
+    <suburb>WAKERLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.16259211437713</long>
+    <lat>-27.480870650714728</lat>
+  </park>
+  <park id="136">
+    <park_description>MORTIMER RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0563</park_number>
+    <park_name>MORTIMER ROAD PARK</park_name>
+    <suburb>ACACIA RIDGE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0162644130083</long>
+    <lat>-27.5780346057958</lat>
+  </park>
+  <park id="137">
+    <park_description>ELANORA PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0516</park_number>
+    <park_name>ELANORA PARK</park_name>
+    <suburb>WYNNUM</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.16795844430538</long>
+    <lat>-27.42676053713769</lat>
+  </park>
+  <park id="138">
+    <park_description>KENSINGTON CIRCUIT DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1424</park_number>
+    <park_name>BLACKBUTT PLACE PARK</park_name>
+    <suburb>BROOKFIELD</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9306513243067</long>
+    <lat>-27.50362258125988</lat>
+  </park>
+  <park id="139">
+    <park_description>PASK FAMILY PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D3293</park_number>
+    <park_name>PASK FAMILY PARK</park_name>
+    <suburb>ROCHEDALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.11614367236578</long>
+    <lat>-27.573435561830298</lat>
+  </park>
+  <park id="140">
+    <park_description>EVELYN RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1842</park_number>
+    <park_name>EVELYN ROAD PARK</park_name>
+    <suburb>WYNNUM WEST</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.14472675378715</long>
+    <lat>-27.451796357834176</lat>
+  </park>
+  <park id="141">
+    <park_description>MULBEAM PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1158</park_number>
+    <park_name>MULBEAM PARK</park_name>
+    <suburb>BOONDALL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.05333152247636</long>
+    <lat>-27.352031062762453</lat>
+  </park>
+  <park id="142">
+    <park_description>JACK PYLE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0753</park_number>
+    <park_name>JACK PYLE PARK</park_name>
+    <suburb>SUNNYBANK HILLS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.06286510328118</long>
+    <lat>-27.602590703658066</lat>
+  </park>
+  <park id="143">
+    <park_description>ROSEWOOD PLACE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1930</park_number>
+    <park_name>EVERGREEN PLACE PARK</park_name>
+    <suburb>MURARRIE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.09341341451128</long>
+    <lat>-27.46516161596592</lat>
+  </park>
+  <park id="144">
+    <park_description>BERKSHIRE CRES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1777</park_number>
+    <park_name>BERKSHIRE CRESCENT PARK</park_name>
+    <suburb>WISHART</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0992638007881</long>
+    <lat>-27.548753339118623</lat>
+  </park>
+  <park id="145">
+    <park_description>IVORY ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1634</park_number>
+    <park_name>IVORY STREET PARK (ROAD RESERVE)</park_name>
+    <suburb>FORTITUDE VALLEY</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0352874879166</long>
+    <lat>-27.4600365893467</lat>
+  </park>
+  <park id="146">
+    <park_description>HILL END TERRACE DOG OFF LEASH AREA (OPP DRURY ST)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0346</park_number>
+    <park_name>ORLEIGH PARK</park_name>
+    <suburb>WEST END</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9967740367252</long>
+    <lat>-27.487202259295305</lat>
+  </park>
+  <park id="147">
+    <park_description>WEBSTER RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1689</park_number>
+    <park_name>WEBSTER ROAD PARK</park_name>
+    <suburb>STAFFORD HEIGHTS</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0192645794733</long>
+    <lat>-27.394654978694355</lat>
+  </park>
+  <park id="148">
+    <park_description>CORRAMULLING PK DOG OFF LEASH AREA (UNFENCED)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0155</park_number>
+    <park_name>CORRAMULLING PARK</park_name>
+    <suburb>THE GAP</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.93842176946754</long>
+    <lat>-27.4510470945748</lat>
+  </park>
+  <park id="149">
+    <park_description>CAMBAGE RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0452</park_number>
+    <park_name>NORTHGATE RESERVE</park_name>
+    <suburb>NORTHGATE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.07231631588886</long>
+    <lat>-27.39706260235048</lat>
+  </park>
+  <park id="150">
+    <park_description>NUDGEE WATERHOLE (NUDGEE RD) DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0448</park_number>
+    <park_name>NUDGEE WATERHOLE RESERVE</park_name>
+    <suburb>NUDGEE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.09352678413563</long>
+    <lat>-27.376348085719865</lat>
+  </park>
+  <park id="151">
+    <park_description>GREENFORD ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0858</park_number>
+    <park_name>MERRI MERRI PARK</park_name>
+    <suburb>CHAPEL HILL</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.93974107551463</long>
+    <lat>-27.48410712801856</lat>
+  </park>
+  <park id="152">
+    <park_description>CURLEW PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0643</park_number>
+    <park_name>CURLEW PARK</park_name>
+    <suburb>SANDGATE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.07335965619745</long>
+    <lat>-27.326508513652755</lat>
+  </park>
+  <park id="153">
+    <park_description>BROOKBENT RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1676</park_number>
+    <park_name>PALLARA PARK</park_name>
+    <suburb>PALLARA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0122355570174</long>
+    <lat>-27.60934959443736</lat>
+  </park>
+  <park id="154">
+    <park_description>WOOGAROO RES DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1743</park_number>
+    <park_name>WOOGAROO RESERVE</park_name>
+    <suburb>FOREST LAKE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9777827636685</long>
+    <lat>-27.630802324975875</lat>
+  </park>
+  <park id="155">
+    <park_description>SANANANDA ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0705</park_number>
+    <park_name>SANANANDA STREET PARK</park_name>
+    <suburb>DARRA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9437011108468</long>
+    <lat>-27.574496827336883</lat>
+  </park>
+  <park id="156">
+    <park_description>KITCHENER RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0166</park_number>
+    <park_name>ASCOT PARK</park_name>
+    <suburb>ASCOT</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0626774476494</long>
+    <lat>-27.42873239486942</lat>
+  </park>
+  <park id="157">
+    <park_description>OLD SHORELINE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D3754</park_number>
+    <park_name>OLD SHORELINE PARK</park_name>
+    <suburb>HAMILTON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.08452088133694</long>
+    <lat>-27.4406340284359</lat>
+  </park>
+  <park id="158">
+    <park_description>BERKSHIRE PL UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2203</park_number>
+    <park_name>ROTARY PARK</park_name>
+    <suburb>HEATHWOOD</suburb>
+    <fencing>PARTIALLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.9867642468852</long>
+    <lat>-27.632261062582977</lat>
+  </park>
+  <park id="159">
+    <park_description>TELEGRAPH RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0804</park_number>
+    <park_name>BILL BROWN SPORTS RESERVE</park_name>
+    <suburb>FITZGIBBON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.0412832409639</long>
+    <lat>-27.333626935505286</lat>
+  </park>
+  <park id="160">
+    <park_description>GOLDEN AVE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1242</park_number>
+    <park_name>MING-SHAN PARK</park_name>
+    <suburb>CALAMVALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.05470934327184</long>
+    <lat>-27.627171470829268</lat>
+  </park>
+  <park id="161">
+    <park_description>PARDALOTE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0857</park_number>
+    <park_name>PARDALOTE PARK</park_name>
+    <suburb>ALGESTER</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.04049754019263</long>
+    <lat>-27.60687957664638</lat>
+  </park>
+  <park id="162">
+    <park_description>PRATTEN ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0011</park_number>
+    <park_name>GEORGE SCARLETT PARK</park_name>
+    <suburb>CORINDA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.98439393351305</long>
+    <lat>-27.548424407335368</lat>
+  </park>
+  <park id="163">
+    <park_description>VENNER RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0379</park_number>
+    <park_name>HYDE ROAD PARK</park_name>
+    <suburb>YERONGA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.01510573876197</long>
+    <lat>-27.511854060875503</lat>
+  </park>
+  <park id="164">
+    <park_description>KEDRON BROOK DOG OFF LEASH AREA (EMMA ST PK SECTION)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0634</park_number>
+    <park_name>EMMA STREET PARK</park_name>
+    <suburb>KALINGA</suburb>
+    <fencing>UNFENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.042581691</long>
+    <lat>-27.408083773999977</lat>
+  </park>
+  <park id="165">
+    <park_description>BULIMBA RIVERSIDE PK DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2672</park_number>
+    <park_name>BULIMBA RIVERSIDE PARK</park_name>
+    <suburb>BULIMBA</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.05458635885137</long>
+    <lat>-27.453916593106374</lat>
+  </park>
+  <park id="166">
+    <park_description>JULIE RD DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1360</park_number>
+    <park_name>JULIE ROAD PARK</park_name>
+    <suburb>ELLEN GROVE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.93516898291034</long>
+    <lat>-27.61395072608414</lat>
+  </park>
+  <park id="167">
+    <park_description>BOOKER PL PK DOG OFF LEASH AREA (BIRKIN RD)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0663</park_number>
+    <park_name>BOOKER PLACE PARK</park_name>
+    <suburb>BELLBOWRIE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>152.89441440332766</long>
+    <lat>-27.56361491907893</lat>
+  </park>
+  <park id="168">
+    <park_description>TURQUOISE PLACE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1512</park_number>
+    <park_name>TURQUOISE PLACE PARK</park_name>
+    <suburb>WAVELL HEIGHTS</suburb>
+    <fencing>PARTIALLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.0531198970276</long>
+    <lat>-27.381176231869638</lat>
+  </park>
+  <park id="169">
+    <park_description>FORMBY ST DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D2072</park_number>
+    <park_name>CALAMVALE DISTRICT PARK</park_name>
+    <suburb>CALAMVALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>153.03734756853126</long>
+    <lat>-27.62174941744632</lat>
+  </park>
+  <park id="170">
+    <park_description>DORRINGTON PK UNFENCED DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0161</park_number>
+    <park_name>DORRINGTON PARK</park_name>
+    <suburb>ASHGROVE</suburb>
+    <fencing>PARTIALLY FENCED</fencing>
+    <lighting>NO</lighting>
+    <small_dog_enclosure>NO</small_dog_enclosure>
+    <dog_agility_equipment>NO</dog_agility_equipment>
+    <long>152.98693934685662</long>
+    <lat>-27.43984497002179</lat>
+  </park>
+  <park id="171">
+    <park_description>NEWBURY PLACE DOG OFF LEASH AREA</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D1452</park_number>
+    <park_name>NEWBURY PLACE PARK</park_name>
+    <suburb>CARINDALE</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.11999716104083</long>
+    <lat>-27.524519381659182</lat>
+  </park>
+  <park id="172">
+    <park_description>GREGORY TCE DOG OFF LEASH AREA (SPRING HILL)</park_description>
+    <park_type>DOG OFF LEASH NODE</park_type>
+    <park_number>D0083</park_number>
+    <park_name>VICTORIA PARK</park_name>
+    <suburb>HERSTON</suburb>
+    <fencing>FULLY FENCED</fencing>
+    <lighting>YES</lighting>
+    <small_dog_enclosure>YES</small_dog_enclosure>
+    <dog_agility_equipment>YES</dog_agility_equipment>
+    <long>153.02587846039464</long>
+    <lat>-27.454260120950142</lat>
+  </park>
+</parks>

@@ -1,0 +1,1123 @@
+<?xml version="1.0" ?>
+<bike_racks>
+  <bike_rack id="1">
+    <suburb>Brisbane City</suburb>
+    <address>100 Adelaide Street</address>
+    <location>King George Square - above King George Square Car Park on Adelaide Street side (near CityCycle station 1101 and Pig 'N' Whistle)</location>
+    <capacity>24</capacity>
+    <rack_type>3 x 8 Bay Racks</rack_type>
+    <latitude>-27.46815</latitude>
+    <longitude>153.024</longitude>
+    <geolocation>-27.46815, 153.024</geolocation>
+  </bike_rack>
+  <bike_rack id="2">
+    <suburb>Brisbane City</suburb>
+    <address>102 Adelaide Street</address>
+    <location>Footpath outside Officeworks</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.46849</latitude>
+    <longitude>153.0249</longitude>
+    <geolocation>-27.46849, 153.0249</geolocation>
+  </bike_rack>
+  <bike_rack id="3">
+    <suburb>Brisbane City</suburb>
+    <address>103 Edward Street</address>
+    <location>Footpath</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.4704</latitude>
+    <longitude>153.029</longitude>
+    <geolocation>-27.4704, 153.029</geolocation>
+  </bike_rack>
+  <bike_rack id="4">
+    <suburb>Brisbane City</suburb>
+    <address>116 Adelaide Street</address>
+    <location>Footpath outside Fitness First</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46831</latitude>
+    <longitude>153.0251</longitude>
+    <geolocation>-27.46831, 153.0251</geolocation>
+  </bike_rack>
+  <bike_rack id="5">
+    <suburb>Brisbane City</suburb>
+    <address>123 Albert Street</address>
+    <location>Outside Coffee Club</location>
+    <capacity>4</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.47084</latitude>
+    <longitude>153.0265</longitude>
+    <geolocation>-27.47084, 153.0265</geolocation>
+  </bike_rack>
+  <bike_rack id="6">
+    <suburb>Brisbane City</suburb>
+    <address>125 Margaret Street</address>
+    <location>Footpath</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.47322</latitude>
+    <longitude>153.0277</longitude>
+    <geolocation>-27.47322, 153.0277</geolocation>
+  </bike_rack>
+  <bike_rack id="7">
+    <suburb>Brisbane City</suburb>
+    <address>15 Adelaide Street</address>
+    <location>Footpath next to phone booth</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46995</latitude>
+    <longitude>153.0232</longitude>
+    <geolocation>-27.46995, 153.0232</geolocation>
+  </bike_rack>
+  <bike_rack id="8">
+    <suburb>Brisbane City</suburb>
+    <address>160 Ann Street</address>
+    <location>Footpath (outside CQ Uni Building)</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46765</latitude>
+    <longitude>153.0243</longitude>
+    <geolocation>-27.46765, 153.0243</geolocation>
+  </bike_rack>
+  <bike_rack id="9">
+    <suburb>Brisbane City</suburb>
+    <address>20 Market Street</address>
+    <location>In small park area on footpath near Wenley House</location>
+    <capacity>6</capacity>
+    <rack_type>3 x Single Bike</rack_type>
+    <latitude>-27.46946</latitude>
+    <longitude>153.0296</longitude>
+    <geolocation>-27.46946, 153.0296</geolocation>
+  </bike_rack>
+  <bike_rack id="10">
+    <suburb>Brisbane City</suburb>
+    <address>225 Edward Street</address>
+    <location>Footpath outside Commonwealth Bank</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.46812</latitude>
+    <longitude>153.0269</longitude>
+    <geolocation>-27.46812, 153.0269</geolocation>
+  </bike_rack>
+  <bike_rack id="11">
+    <suburb>Brisbane City</suburb>
+    <address>260 Queen Street</address>
+    <location>Footpath outside Westpac Bank</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46814</latitude>
+    <longitude>153.027</longitude>
+    <geolocation>-27.46814, 153.027</geolocation>
+  </bike_rack>
+  <bike_rack id="12">
+    <suburb>Brisbane City</suburb>
+    <address>266 George Street (Adelaide Street frontage)</address>
+    <location>Corner of George Street and Adelaide Street near seated area (outside Brisbane Square)</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Rail</rack_type>
+    <latitude>-27.47038</latitude>
+    <longitude>153.0228</longitude>
+    <geolocation>-27.47038, 153.0228</geolocation>
+  </bike_rack>
+  <bike_rack id="13">
+    <suburb>Brisbane City</suburb>
+    <address>266 George Street (North Quay frontage)</address>
+    <location>Corner North Quay and Adelaide Street (outside Brisbane Square)</location>
+    <capacity>14</capacity>
+    <rack_type>7 x Single Rail</rack_type>
+    <latitude>-27.47094</latitude>
+    <longitude>153.0221</longitude>
+    <geolocation>-27.47094, 153.0221</geolocation>
+  </bike_rack>
+  <bike_rack id="14">
+    <suburb>Brisbane City</suburb>
+    <address>31 Tank Street (Santos Place)</address>
+    <location>On Turbot St pathway outside Santos Building</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Rail</rack_type>
+    <latitude>-27.46866</latitude>
+    <longitude>153.0201</longitude>
+    <geolocation>-27.46866, 153.0201</geolocation>
+  </bike_rack>
+  <bike_rack id="15">
+    <suburb>Brisbane City</suburb>
+    <address>2 Edward Street</address>
+    <location>Footpath on Edward Street near Alice Street</location>
+    <capacity>3</capacity>
+    <rack_type>1 x 3 Bay Bike rack</rack_type>
+    <latitude>-27.4721</latitude>
+    <longitude>153.0304</longitude>
+    <geolocation>-27.4721, 153.0304</geolocation>
+  </bike_rack>
+  <bike_rack id="16">
+    <suburb>Brisbane City</suburb>
+    <address>340 George Street</address>
+    <location>Footpath (outside Java Cafe)</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46922</latitude>
+    <longitude>153.0217</longitude>
+    <geolocation>-27.46922, 153.0217</geolocation>
+  </bike_rack>
+  <bike_rack id="17">
+    <suburb>Brisbane City</suburb>
+    <address>488 Queen Street</address>
+    <location>Near the entrance stairs of 488 Queen Street along property boundary</location>
+    <capacity>6</capacity>
+    <rack_type>3 x Single Bike Rail</rack_type>
+    <latitude>-27.46436</latitude>
+    <longitude>153.0312</longitude>
+    <geolocation>-27.46436, 153.0312</geolocation>
+  </bike_rack>
+  <bike_rack id="18">
+    <suburb>Brisbane City</suburb>
+    <address>80 Albert Street</address>
+    <location>Footpath</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.47223</latitude>
+    <longitude>153.0276</longitude>
+    <geolocation>-27.47223, 153.0276</geolocation>
+  </bike_rack>
+  <bike_rack id="19">
+    <suburb>Brisbane City</suburb>
+    <address>97 Albert Street</address>
+    <location>Footpath to the front of 7/11</location>
+    <capacity>5</capacity>
+    <rack_type>3 Bay Bike Rack</rack_type>
+    <latitude>-27.4715</latitude>
+    <longitude>153.0273</longitude>
+    <geolocation>-27.4715, 153.0273</geolocation>
+  </bike_rack>
+  <bike_rack id="20">
+    <suburb>Brisbane City</suburb>
+    <address>88 Mary Street</address>
+    <location>Corner Mary Street and Albert Streets next to City Cycle Station</location>
+    <capacity>3</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.47198</latitude>
+    <longitude>153.0271</longitude>
+    <geolocation>-27.47198, 153.0271</geolocation>
+  </bike_rack>
+  <bike_rack id="21">
+    <suburb>Brisbane City</suburb>
+    <address>97 Creek Street</address>
+    <location>Footpath outside Solace Financial House</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.4663</latitude>
+    <longitude>153.0284</longitude>
+    <geolocation>-27.4663, 153.0284</geolocation>
+  </bike_rack>
+  <bike_rack id="22">
+    <suburb>Brisbane City</suburb>
+    <address>Corner George Street and Queen Street</address>
+    <location>Reddacliff Place near the Treasury Casino behind advertising panel</location>
+    <capacity>10</capacity>
+    <rack_type>7 bay rack</rack_type>
+    <latitude>-27.47114</latitude>
+    <longitude>153.0235</longitude>
+    <geolocation>-27.47114, 153.0235</geolocation>
+  </bike_rack>
+  <bike_rack id="23">
+    <suburb>Brisbane City</suburb>
+    <address>QUT Gardens Point Road</address>
+    <location>Behind Building 'Y' Near Main Drive</location>
+    <capacity>20</capacity>
+    <rack_type>10 x Single Rail Rack</rack_type>
+    <latitude>-27.47897</latitude>
+    <longitude>153.0283</longitude>
+    <geolocation>-27.47897, 153.0283</geolocation>
+  </bike_rack>
+  <bike_rack id="24">
+    <suburb>Brisbane City</suburb>
+    <address>QUT Gardens Point Road</address>
+    <location>Near the Gardens Club at the end of the cul-de-sac</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.47899</latitude>
+    <longitude>153.0283</longitude>
+    <geolocation>-27.47899, 153.0283</geolocation>
+  </bike_rack>
+  <bike_rack id="25">
+    <suburb>Brisbane City</suburb>
+    <address>King George Square</address>
+    <location>King George Square (behind busway entrance on Adelaide Street)</location>
+    <capacity>20</capacity>
+    <rack_type>2 x 10 bay racks</rack_type>
+    <latitude>-27.46883</latitude>
+    <longitude>153.0241</longitude>
+    <geolocation>-27.46883, 153.0241</geolocation>
+  </bike_rack>
+  <bike_rack id="26">
+    <suburb>Brisbane City</suburb>
+    <address>Parkland Boulevard</address>
+    <location>Roma Street Parklands, near main entry off Parkland Boulevard</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Bike Rail</rack_type>
+    <latitude>-27.46346</latitude>
+    <longitude>153.0174</longitude>
+    <geolocation>-27.46346, 153.0174</geolocation>
+  </bike_rack>
+  <bike_rack id="27">
+    <suburb>Brisbane City</suburb>
+    <address>163 Elizabeth Street</address>
+    <location>Footpath near pedestrian crossing</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.469934</latitude>
+    <longitude>153.02673</longitude>
+    <geolocation>-27.469934, 153.02673</geolocation>
+  </bike_rack>
+  <bike_rack id="28">
+    <suburb>Brisbane City</suburb>
+    <address>344 Queen Street</address>
+    <location>Footpath</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.466548</latitude>
+    <longitude>153.029099</longitude>
+    <geolocation>-27.466548, 153.029099</geolocation>
+  </bike_rack>
+  <bike_rack id="29">
+    <suburb>Fortitude Valley</suburb>
+    <address>432 Wickham Street</address>
+    <location>Footpath outside Valley Pool</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.4542</latitude>
+    <longitude>153.0367</longitude>
+    <geolocation>-27.4542, 153.0367</geolocation>
+  </bike_rack>
+  <bike_rack id="30">
+    <suburb>Brisbane City</suburb>
+    <address>120 Wickham Street Fortitude Valley</address>
+    <location>Footpath near street tree</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.45949</latitude>
+    <longitude>153.03169</longitude>
+    <geolocation>-27.45949, 153.03169</geolocation>
+  </bike_rack>
+  <bike_rack id="31">
+    <suburb>Brisbane City</suburb>
+    <address>70 Mary Street Brisbane City</address>
+    <location>Footpath near restaurant</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.4723</latitude>
+    <longitude>153.0268</longitude>
+    <geolocation>-27.4723, 153.0268</geolocation>
+  </bike_rack>
+  <bike_rack id="32">
+    <suburb>Brisbane City</suburb>
+    <address>111 George Street</address>
+    <location>Footpath near entrance</location>
+    <capacity>3</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.4725</latitude>
+    <longitude>153.0252</longitude>
+    <geolocation>-27.4725, 153.0252</geolocation>
+  </bike_rack>
+  <bike_rack id="33">
+    <suburb>Brisbane City</suburb>
+    <address>310 George Street, Brisbane City</address>
+    <location>Footpath outside the W Hotel entrance</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.46997</latitude>
+    <longitude>153.022499</longitude>
+    <geolocation>-27.46997, 153.022499</geolocation>
+  </bike_rack>
+  <bike_rack id="34">
+    <suburb>Brisbane City</suburb>
+    <address>144 Adelaide Street Brisbane</address>
+    <location>Footpath outside TAB</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.467986</latitude>
+    <longitude>153.025489</longitude>
+    <geolocation>-27.467986, 153.025489</geolocation>
+  </bike_rack>
+  <bike_rack id="35">
+    <suburb>Brisbane City</suburb>
+    <address>162 Edward Street, Brisbane City</address>
+    <location>Footpath - Near Mitchell Ogilvie store frontage</location>
+    <capacity>3</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.469348</latitude>
+    <longitude>153.027886</longitude>
+    <geolocation>-27.469348, 153.027886</geolocation>
+  </bike_rack>
+  <bike_rack id="36">
+    <suburb>Brisbane City</suburb>
+    <address>114 Edward Street (Urbanna frontage)</address>
+    <location>Footpath - near Urbanna store frontage</location>
+    <capacity>3</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.470285</latitude>
+    <longitude>153.028753</longitude>
+    <geolocation>-27.470285, 153.028753</geolocation>
+  </bike_rack>
+  <bike_rack id="37">
+    <suburb>Brisbane City</suburb>
+    <address>217 George Street</address>
+    <location>St George Bank, George Street frontage</location>
+    <capacity>4</capacity>
+    <rack_type>2x bike rails</rack_type>
+    <latitude>-27.470797</latitude>
+    <longitude>153.023494</longitude>
+    <geolocation>-27.470797, 153.023494</geolocation>
+  </bike_rack>
+  <bike_rack id="38">
+    <suburb>Brisbane City</suburb>
+    <address>234 Queen Street</address>
+    <location>Commonwealth Bank, Edward Street frontage</location>
+    <capacity>4</capacity>
+    <rack_type>1x 4 bay rack</rack_type>
+    <latitude>-27.46813</latitude>
+    <longitude>153.026854</longitude>
+    <geolocation>-27.46813, 153.026854</geolocation>
+  </bike_rack>
+  <bike_rack id="39">
+    <suburb>Brisbane City</suburb>
+    <address>151 George Street</address>
+    <location>on the frontage of the Casino Towers</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.472089</latitude>
+    <longitude>153.024748</longitude>
+    <geolocation>-27.472089, 153.024748</geolocation>
+  </bike_rack>
+  <bike_rack id="40">
+    <suburb>Brisbane City</suburb>
+    <address>100 Edward Street</address>
+    <location>Footpath on the corner of Edward Street and Mary Street</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.47052</latitude>
+    <longitude>153.029</longitude>
+    <geolocation>-27.47052, 153.029</geolocation>
+  </bike_rack>
+  <bike_rack id="41">
+    <suburb>Brisbane City</suburb>
+    <address>119 Charlotte Street</address>
+    <location>Footpath near food court and The Sebel driveway</location>
+    <capacity>6</capacity>
+    <rack_type>2 x 3 Bay Racks</rack_type>
+    <latitude>-27.47082</latitude>
+    <longitude>153.0273</longitude>
+    <geolocation>-27.47082, 153.0273</geolocation>
+  </bike_rack>
+  <bike_rack id="42">
+    <suburb>Spring Hill</suburb>
+    <address>121 Wickham Terrace</address>
+    <location>Footpath near Ballow Chambers building</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46465</latitude>
+    <longitude>153.0258</longitude>
+    <geolocation>-27.46465, 153.0258</geolocation>
+  </bike_rack>
+  <bike_rack id="43">
+    <suburb>Brisbane City</suburb>
+    <address>122 Roma Street (George Street frontage of Supreme Court)</address>
+    <location>Footpath at George Street frontage of Queensland Supreme Court near CityCycle Station 22.</location>
+    <capacity>14</capacity>
+    <rack_type>7 x Single Rail</rack_type>
+    <latitude>-27.46735</latitude>
+    <longitude>153.0211</longitude>
+    <geolocation>-27.46735, 153.0211</geolocation>
+  </bike_rack>
+  <bike_rack id="44">
+    <suburb>Spring Hill</suburb>
+    <address>149 Wickham Terrace</address>
+    <location>Footpath at the front of taxi rank</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46469</latitude>
+    <longitude>153.0253</longitude>
+    <geolocation>-27.46469, 153.0253</geolocation>
+  </bike_rack>
+  <bike_rack id="45">
+    <suburb>Brisbane City</suburb>
+    <address>240 Queen Street</address>
+    <location>Footpath outside Commonwealth Bank</location>
+    <capacity>4</capacity>
+    <rack_type>4 bay rack</rack_type>
+    <latitude>-27.46799</latitude>
+    <longitude>153.0273</longitude>
+    <geolocation>-27.46799, 153.0273</geolocation>
+  </bike_rack>
+  <bike_rack id="46">
+    <suburb>Brisbane City</suburb>
+    <address>25 Adelaide Street</address>
+    <location>Footpath outside Bupa Dental</location>
+    <capacity>3</capacity>
+    <rack_type>3 Bay Rack</rack_type>
+    <latitude>-27.46966</latitude>
+    <longitude>153.0236</longitude>
+    <geolocation>-27.46966, 153.0236</geolocation>
+  </bike_rack>
+  <bike_rack id="47">
+    <suburb>Brisbane City</suburb>
+    <address>270 Ann Street</address>
+    <location>Corner of Edward Street and Ann Street and at Central Station entrance near phone booths</location>
+    <capacity>12</capacity>
+    <rack_type>2 x 6 bay racks</rack_type>
+    <latitude>-27.46662</latitude>
+    <longitude>153.0256</longitude>
+    <geolocation>-27.46662, 153.0256</geolocation>
+  </bike_rack>
+  <bike_rack id="48">
+    <suburb>Brisbane City</suburb>
+    <address>270 Queen Street</address>
+    <location>Post Office Square, east of walkway near HSBC Building</location>
+    <capacity>9</capacity>
+    <rack_type>Wheel racks</rack_type>
+    <latitude>-27.46744</latitude>
+    <longitude>153.0278</longitude>
+    <geolocation>-27.46744, 153.0278</geolocation>
+  </bike_rack>
+  <bike_rack id="49">
+    <suburb>Brisbane City</suburb>
+    <address>320 Adelaide Street</address>
+    <location>Near the corner of Adelaide and Wharf Street in front of the Christie Centre entrance</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46511</latitude>
+    <longitude>153.0296</longitude>
+    <geolocation>-27.46511, 153.0296</geolocation>
+  </bike_rack>
+  <bike_rack id="50">
+    <suburb>Brisbane City</suburb>
+    <address>363 George Street</address>
+    <location>Magistrates Court  western side next to the city cycle station  on George Street.</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Bike Rail</rack_type>
+    <latitude>-27.4679</latitude>
+    <longitude>153.0215</longitude>
+    <geolocation>-27.4679, 153.0215</geolocation>
+  </bike_rack>
+  <bike_rack id="51">
+    <suburb>Brisbane City</suburb>
+    <address>419 George Street</address>
+    <location>Footpath, outside District and Supreme Court</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Bike Rail</rack_type>
+    <latitude>-27.46773</latitude>
+    <longitude>153.0205</longitude>
+    <geolocation>-27.46773, 153.0205</geolocation>
+  </bike_rack>
+  <bike_rack id="52">
+    <suburb>Brisbane City</suburb>
+    <address>48 Turbot Street</address>
+    <location>Footpath on Turbot Street near the escalators of 400 George Street</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Bike Rail</rack_type>
+    <latitude>-27.46879</latitude>
+    <longitude>153.021</longitude>
+    <geolocation>-27.46879, 153.021</geolocation>
+  </bike_rack>
+  <bike_rack id="53">
+    <suburb>Brisbane City</suburb>
+    <address>53 Albert Street</address>
+    <location>Footpath outside Capri Building</location>
+    <capacity>5</capacity>
+    <rack_type>3 Bay Rack</rack_type>
+    <latitude>-27.47252</latitude>
+    <longitude>153.0281</longitude>
+    <geolocation>-27.47252, 153.0281</geolocation>
+  </bike_rack>
+  <bike_rack id="54">
+    <suburb>Brisbane City</suburb>
+    <address>62 Ann Street</address>
+    <location>Footpath outside the former Department of Agriculture and Fisheries Building currently under construction</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.4691</latitude>
+    <longitude>153.0227</longitude>
+    <geolocation>-27.4691, 153.0227</geolocation>
+  </bike_rack>
+  <bike_rack id="55">
+    <suburb>Brisbane City</suburb>
+    <address>80 Albert Street</address>
+    <location>Footpath</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.47228</latitude>
+    <longitude>153.0277</longitude>
+    <geolocation>-27.47228, 153.0277</geolocation>
+  </bike_rack>
+  <bike_rack id="56">
+    <suburb>Brisbane City</suburb>
+    <address>87 Albert Street</address>
+    <location>Footpath</location>
+    <capacity>6</capacity>
+    <rack_type>3 x Single Bike Rail</rack_type>
+    <latitude>-27.47173</latitude>
+    <longitude>153.0274</longitude>
+    <geolocation>-27.47173, 153.0274</geolocation>
+  </bike_rack>
+  <bike_rack id="57">
+    <suburb>Brisbane City</suburb>
+    <address>City Botanic Gardens</address>
+    <location>Near all abilities playground</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Bike Rail</rack_type>
+    <latitude>-27.47374</latitude>
+    <longitude>153.0309</longitude>
+    <geolocation>-27.47374, 153.0309</geolocation>
+  </bike_rack>
+  <bike_rack id="58">
+    <suburb>Brisbane City</suburb>
+    <address>111 Eagle Street</address>
+    <location>Footpath, near traffic lights</location>
+    <capacity>10</capacity>
+    <rack_type>2 x 3 bay rack</rack_type>
+    <latitude>-27.46875</latitude>
+    <longitude>153.03</longitude>
+    <geolocation>-27.46875, 153.03</geolocation>
+  </bike_rack>
+  <bike_rack id="59">
+    <suburb>Brisbane City</suburb>
+    <address>Corner Queen Street and Creek Street</address>
+    <location>Footpath</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46695</latitude>
+    <longitude>153.0289</longitude>
+    <geolocation>-27.46695, 153.0289</geolocation>
+  </bike_rack>
+  <bike_rack id="60">
+    <suburb>Brisbane City</suburb>
+    <address>65 Gardens Point Road</address>
+    <location>Near Goodwill Bridge</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.47753</latitude>
+    <longitude>153.0305</longitude>
+    <geolocation>-27.47753, 153.0305</geolocation>
+  </bike_rack>
+  <bike_rack id="61">
+    <suburb>Brisbane City</suburb>
+    <address>Roma Street - King George Square Busway Station</address>
+    <location>Roma Street entrance to King George Square Busway Station</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.46794</latitude>
+    <longitude>153.0234</longitude>
+    <geolocation>-27.46794, 153.0234</geolocation>
+  </bike_rack>
+  <bike_rack id="62">
+    <suburb>Brisbane City</suburb>
+    <address>258 Roma Street</address>
+    <location>Police Watch house near City Cycle facility and pedestrian crossing</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.4663</latitude>
+    <longitude>153.0172</longitude>
+    <geolocation>-27.4663, 153.0172</geolocation>
+  </bike_rack>
+  <bike_rack id="63">
+    <suburb>Brisbane City</suburb>
+    <address>76 Edward Street</address>
+    <location>Footpath near RACQ House</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.470876</latitude>
+    <longitude>153.029319</longitude>
+    <geolocation>-27.470876, 153.029319</geolocation>
+  </bike_rack>
+  <bike_rack id="64">
+    <suburb>Brisbane City</suburb>
+    <address>25 Mary Street Brisbane City</address>
+    <location>Footpath near Mary Street Dental</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.4729</latitude>
+    <longitude>153.0265</longitude>
+    <geolocation>-27.4729, 153.0265</geolocation>
+  </bike_rack>
+  <bike_rack id="65">
+    <suburb>Brisbane City</suburb>
+    <address>84 Charlotte Street</address>
+    <location>Footpath (next to street tree in front of Gilhooley's Pub entrance)</location>
+    <capacity>4</capacity>
+    <rack_type>4 bay rack</rack_type>
+    <latitude>-27.471231</latitude>
+    <longitude>153.026518</longitude>
+    <geolocation>-27.471231, 153.026518</geolocation>
+  </bike_rack>
+  <bike_rack id="66">
+    <suburb>Brisbane City</suburb>
+    <address>199 Adelaide Street</address>
+    <location>Starbucks Queens Plaza Cnr Adelaide Street and Edward Street</location>
+    <capacity>4</capacity>
+    <rack_type>2x single bike rails</rack_type>
+    <latitude>-27.467792</latitude>
+    <longitude>153.026008</longitude>
+    <geolocation>-27.467792, 153.026008</geolocation>
+  </bike_rack>
+  <bike_rack id="67">
+    <suburb>Brisbane City</suburb>
+    <address>2 Roma Street</address>
+    <location>Footpath near entrance to Anytime Fitness - Ann St frontage</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.468383</latitude>
+    <longitude>153.023325</longitude>
+    <geolocation>-27.468383, 153.023325</geolocation>
+  </bike_rack>
+  <bike_rack id="68">
+    <suburb>Brisbane City</suburb>
+    <address>47 Tank Street</address>
+    <location>Footpath near entrace to Woolworths Metro</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.468084</latitude>
+    <longitude>153.020505</longitude>
+    <geolocation>-27.468084, 153.020505</geolocation>
+  </bike_rack>
+  <bike_rack id="69">
+    <suburb>Brisbane City</suburb>
+    <address>7 Boundary St Brisbane</address>
+    <location>Adjacent to existing bike rack, north verge of cul de sac</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.462154</latitude>
+    <longitude>153.034594</longitude>
+    <geolocation>-27.462154, 153.034594</geolocation>
+  </bike_rack>
+  <bike_rack id="70">
+    <suburb>Brisbane City</suburb>
+    <address>95 Adelaide Street</address>
+    <location>Footpath outside Bupa - just north of Albert St entrance to Queen St Mall</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.468836</latitude>
+    <longitude>153.024632</longitude>
+    <geolocation>-27.468836, 153.024632</geolocation>
+  </bike_rack>
+  <bike_rack id="71">
+    <suburb>Brisbane City</suburb>
+    <address>100 Creek St Brisbane</address>
+    <location>Southern corner of intersection adjacent to fence</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.466389</latitude>
+    <longitude>153.027829</longitude>
+    <geolocation>-27.466389, 153.027829</geolocation>
+  </bike_rack>
+  <bike_rack id="72">
+    <suburb>Brisbane City</suburb>
+    <address>266 George St Brisbane</address>
+    <location>Footpath outside Brisbane Square / Caf? Brisbane entrance</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.470786</latitude>
+    <longitude>153.023275</longitude>
+    <geolocation>-27.470786, 153.023275</geolocation>
+  </bike_rack>
+  <bike_rack id="73">
+    <suburb>Brisbane City</suburb>
+    <address>103 Edward Street Brisbane</address>
+    <location>Footpath outside Doo-Bop bar</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.470287</latitude>
+    <longitude>153.028941</longitude>
+    <geolocation>-27.470287, 153.028941</geolocation>
+  </bike_rack>
+  <bike_rack id="74">
+    <suburb>Fortitude Valley</suburb>
+    <address>356 St Pauls Terrace, Fortitude Valley</address>
+    <location>Footpath - Jetts Gym Amelia Street frontage</location>
+    <capacity>5</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.455316</latitude>
+    <longitude>153.032055</longitude>
+    <geolocation>-27.455316, 153.032055</geolocation>
+  </bike_rack>
+  <bike_rack id="75">
+    <suburb>Brisbane City</suburb>
+    <address>101 Albert Street</address>
+    <location>Footpath near 7-Eleven</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.47152</latitude>
+    <longitude>153.0272</longitude>
+    <geolocation>-27.47152, 153.0272</geolocation>
+  </bike_rack>
+  <bike_rack id="76">
+    <suburb>Brisbane City</suburb>
+    <address>108 Albert Street</address>
+    <location>Footpath</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.47146</latitude>
+    <longitude>153.0269</longitude>
+    <geolocation>-27.47146, 153.0269</geolocation>
+  </bike_rack>
+  <bike_rack id="77">
+    <suburb>Brisbane City</suburb>
+    <address>108 Albert Street</address>
+    <location>Footpath</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.47154</latitude>
+    <longitude>153.027</longitude>
+    <geolocation>-27.47154, 153.027</geolocation>
+  </bike_rack>
+  <bike_rack id="78">
+    <suburb>Brisbane City</suburb>
+    <address>109 Elizabeth Street</address>
+    <location>Corner Elizabeth Street and Albert Street</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.47062</latitude>
+    <longitude>153.026</longitude>
+    <geolocation>-27.47062, 153.026</geolocation>
+  </bike_rack>
+  <bike_rack id="79">
+    <suburb>Brisbane City</suburb>
+    <address>123 Albert Street (Rio Tinto Building)</address>
+    <location>Footpath near Coffee Club outside Rio Tinto Building</location>
+    <capacity>3</capacity>
+    <rack_type>3 Bay Rack</rack_type>
+    <latitude>-27.47077</latitude>
+    <longitude>153.0264</longitude>
+    <geolocation>-27.47077, 153.0264</geolocation>
+  </bike_rack>
+  <bike_rack id="80">
+    <suburb>Brisbane City</suburb>
+    <address>127 George Street (Charlotte Street frontage)</address>
+    <location>Footpath on Charlotte Street</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.47234</latitude>
+    <longitude>153.025</longitude>
+    <geolocation>-27.47234, 153.025</geolocation>
+  </bike_rack>
+  <bike_rack id="81">
+    <suburb>Spring Hill</suburb>
+    <address>136 Wickham Terrace</address>
+    <location>Footpath on the corner of Wickham Terrace and Edward Street outside carpark</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46489</latitude>
+    <longitude>153.0252</longitude>
+    <geolocation>-27.46489, 153.0252</geolocation>
+  </bike_rack>
+  <bike_rack id="82">
+    <suburb>Brisbane City</suburb>
+    <address>2 Edward Street</address>
+    <location>Corner Edward Street and Alice Street</location>
+    <capacity>3</capacity>
+    <rack_type>3 Bay Rack</rack_type>
+    <latitude>-27.47197</latitude>
+    <longitude>153.0304</longitude>
+    <geolocation>-27.47197, 153.0304</geolocation>
+  </bike_rack>
+  <bike_rack id="83">
+    <suburb>Brisbane City</suburb>
+    <address>239 George Street</address>
+    <location>Footpath (outside Hitachi Building)</location>
+    <capacity>2</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.47033</latitude>
+    <longitude>153.023</longitude>
+    <geolocation>-27.47033, 153.023</geolocation>
+  </bike_rack>
+  <bike_rack id="84">
+    <suburb>Brisbane City</suburb>
+    <address>308 Queen Street</address>
+    <location>Footpath outside NAB Building</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.4672</latitude>
+    <longitude>153.0283</longitude>
+    <geolocation>-27.4672, 153.0283</geolocation>
+  </bike_rack>
+  <bike_rack id="85">
+    <suburb>Brisbane City</suburb>
+    <address>32 Edward Street</address>
+    <location>Footpath outside Smellie &amp; Co. Building</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.4718</latitude>
+    <longitude>153.0302</longitude>
+    <geolocation>-27.4718, 153.0302</geolocation>
+  </bike_rack>
+  <bike_rack id="86">
+    <suburb>Brisbane City</suburb>
+    <address>400 George Street</address>
+    <location>Footpath outside Santos Building, next to Commonwealth Bank</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.4686</latitude>
+    <longitude>153.0207</longitude>
+    <geolocation>-27.4686, 153.0207</geolocation>
+  </bike_rack>
+  <bike_rack id="87">
+    <suburb>Brisbane City</suburb>
+    <address>69 Ann Street</address>
+    <location>Footpath (outside Telstra Building)</location>
+    <capacity>4</capacity>
+    <rack_type>2 x Single Bike Rail</rack_type>
+    <latitude>-27.46924</latitude>
+    <longitude>153.0225</longitude>
+    <geolocation>-27.46924, 153.0225</geolocation>
+  </bike_rack>
+  <bike_rack id="88">
+    <suburb>Brisbane City</suburb>
+    <address>82 Ann Street</address>
+    <location>Footpath (outside Sarina Russo Building)</location>
+    <capacity>8</capacity>
+    <rack_type>4 x Single Bike Rail</rack_type>
+    <latitude>-27.46868</latitude>
+    <longitude>153.0229</longitude>
+    <geolocation>-27.46868, 153.0229</geolocation>
+  </bike_rack>
+  <bike_rack id="89">
+    <suburb>Fortitude Valley</suburb>
+    <address>Boundary Street near Ivory Street intersection</address>
+    <location>Southern Boundary St footpath, near traffic lights</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46232</latitude>
+    <longitude>153.0331</longitude>
+    <geolocation>-27.46232, 153.0331</geolocation>
+  </bike_rack>
+  <bike_rack id="90">
+    <suburb>Fortitude Valley</suburb>
+    <address>Boundary Street under trees near riverside boardwalk</address>
+    <location>On southern footpath of Boundary St, below Story Bridge</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46237</latitude>
+    <longitude>153.0343</longitude>
+    <geolocation>-27.46237, 153.0343</geolocation>
+  </bike_rack>
+  <bike_rack id="91">
+    <suburb>Brisbane City</suburb>
+    <address>City Botanic Gardens</address>
+    <location>Near rotunda</location>
+    <capacity>5</capacity>
+    <rack_type>Wheel racks</rack_type>
+    <latitude>-27.47432</latitude>
+    <longitude>153.03</longitude>
+    <geolocation>-27.47432, 153.03</geolocation>
+  </bike_rack>
+  <bike_rack id="92">
+    <suburb>Brisbane City</suburb>
+    <address>Corner Adelaide Street and Creek Street</address>
+    <location>Footpath</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46642</latitude>
+    <longitude>153.0278</longitude>
+    <geolocation>-27.46642, 153.0278</geolocation>
+  </bike_rack>
+  <bike_rack id="93">
+    <suburb>Brisbane City</suburb>
+    <address>Corner Ann Street and North Quay</address>
+    <location>Beneath overpass next to W Hotel</location>
+    <capacity>7</capacity>
+    <rack_type>5 bay rack</rack_type>
+    <latitude>-27.47014</latitude>
+    <longitude>153.0214</longitude>
+    <geolocation>-27.47014, 153.0214</geolocation>
+  </bike_rack>
+  <bike_rack id="94">
+    <suburb>Brisbane City</suburb>
+    <address>163 Charlotte Street</address>
+    <location>Footpath on northern verge</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.46997</latitude>
+    <longitude>153.0284</longitude>
+    <geolocation>-27.46997, 153.0284</geolocation>
+  </bike_rack>
+  <bike_rack id="95">
+    <suburb>Brisbane City</suburb>
+    <address>266 George Street</address>
+    <location>Reddacliff Place (North Quay side) near caf?'s</location>
+    <capacity>47</capacity>
+    <rack_type>3 x 10 bay racks, 1 x 5 Bay racks, 6 x Single Bike Rail</rack_type>
+    <latitude>-27.47135</latitude>
+    <longitude>153.0227</longitude>
+    <geolocation>-27.47135, 153.0227</geolocation>
+  </bike_rack>
+  <bike_rack id="96">
+    <suburb>Brisbane City</suburb>
+    <address>Corner Queen Street and Eagle Street</address>
+    <location>Footpath</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.46605</latitude>
+    <longitude>153.03</longitude>
+    <geolocation>-27.46605, 153.03</geolocation>
+  </bike_rack>
+  <bike_rack id="97">
+    <suburb>Brisbane City</suburb>
+    <address>Corner Queen Street and Eagle Street</address>
+    <location>Near Emirates building entrance</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.46559</latitude>
+    <longitude>153.0307</longitude>
+    <geolocation>-27.46559, 153.0307</geolocation>
+  </bike_rack>
+  <bike_rack id="98">
+    <suburb>Brisbane City</suburb>
+    <address>224 Turbot Street</address>
+    <location>Jacobs Ladder Park near art sculptures and advertising panel</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.46522</latitude>
+    <longitude>153.0258</longitude>
+    <geolocation>-27.46522, 153.0258</geolocation>
+  </bike_rack>
+  <bike_rack id="99">
+    <suburb>Brisbane City</suburb>
+    <address>King George Square</address>
+    <location>King George Square (Speakers Corner), above Adelaide Street</location>
+    <capacity>20</capacity>
+    <rack_type>2 x 7 bay rack</rack_type>
+    <latitude>-27.46856</latitude>
+    <longitude>153.0246</longitude>
+    <geolocation>-27.46856, 153.0246</geolocation>
+  </bike_rack>
+  <bike_rack id="100">
+    <suburb>Brisbane City</suburb>
+    <address>Wickham Terrace, near Upper Edward Street</address>
+    <location>Wickham Terrace Car Park, level 4a</location>
+    <capacity>10</capacity>
+    <rack_type>8 bay rack</rack_type>
+    <latitude>-27.4649</latitude>
+    <longitude>153.0253</longitude>
+    <geolocation>-27.4649, 153.0253</geolocation>
+  </bike_rack>
+  <bike_rack id="101">
+    <suburb>Brisbane City</suburb>
+    <address>300 Elizabeth Street</address>
+    <location>Footpath in front of Westpac and Fitness First near Creek Road intersection</location>
+    <capacity>6</capacity>
+    <rack_type>2 x 3 bay rack</rack_type>
+    <latitude>-27.4677</latitude>
+    <longitude>153.0289</longitude>
+    <geolocation>-27.4677, 153.0289</geolocation>
+  </bike_rack>
+  <bike_rack id="102">
+    <suburb>Brisbane City</suburb>
+    <address>355 Queen Street</address>
+    <location>Footpath outside JCU</location>
+    <capacity>5</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.466457</latitude>
+    <longitude>153.029465</longitude>
+    <geolocation>-27.466457, 153.029465</geolocation>
+  </bike_rack>
+  <bike_rack id="103">
+    <suburb>Brisbane City</suburb>
+    <address>410 Ann Street</address>
+    <location>Footpath</location>
+    <capacity>10</capacity>
+    <rack_type>2 x 3 bay rack</rack_type>
+    <latitude>-27.463192</latitude>
+    <longitude>153.030005</longitude>
+    <geolocation>-27.463192, 153.030005</geolocation>
+  </bike_rack>
+  <bike_rack id="104">
+    <suburb>Brisbane City</suburb>
+    <address>371 Queen Street</address>
+    <location>Footpath near Domino's</location>
+    <capacity>3</capacity>
+    <rack_type>3 bay rack</rack_type>
+    <latitude>-27.4662</latitude>
+    <longitude>153.0297</longitude>
+    <geolocation>-27.4662, 153.0297</geolocation>
+  </bike_rack>
+  <bike_rack id="105">
+    <suburb>Fortitude Valley</suburb>
+    <address>228 Brunswick Street</address>
+    <location>Footpath (outside Valley Metro entrace)</location>
+    <capacity>2</capacity>
+    <rack_type>Single Bike Rail</rack_type>
+    <latitude>-27.456834</latitude>
+    <longitude>153.033019</longitude>
+    <geolocation>-27.456834, 153.033019</geolocation>
+  </bike_rack>
+  <bike_rack id="106">
+    <suburb>Brisbane City</suburb>
+    <address>22 Elizabeth St Brisbane</address>
+    <location>Footpath (in front north-western corner of Queens Gardens)</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.4719</latitude>
+    <longitude>153.024196</longitude>
+    <geolocation>-27.4719, 153.024196</geolocation>
+  </bike_rack>
+  <bike_rack id="107">
+    <suburb>Brisbane City</suburb>
+    <address>166 Mary St Brisbane</address>
+    <location>Footpath (outside Raw Energy Caf?)</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.4700661</latitude>
+    <longitude>153.028984</longitude>
+    <geolocation>-27.4700661, 153.028984</geolocation>
+  </bike_rack>
+  <bike_rack id="108">
+    <suburb>Brisbane City</suburb>
+    <address>231 Queen Street, Brisbane City</address>
+    <location>Footpath outside Apple Store</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.468242</latitude>
+    <longitude>153.027163</longitude>
+    <geolocation>-27.468242, 153.027163</geolocation>
+  </bike_rack>
+  <bike_rack id="109">
+    <suburb>Brisbane City</suburb>
+    <address>350 Queen St Brisbane</address>
+    <location>Footpath in front of James Cook University</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.466543</latitude>
+    <longitude>153.029364</longitude>
+    <geolocation>-27.466543, 153.029364</geolocation>
+  </bike_rack>
+  <bike_rack id="110">
+    <suburb>Brisbane City</suburb>
+    <address>Emma Miller Place 240 Albert St Brisbane</address>
+    <location>Parallel with wall from top of stairs to Albert St</location>
+    <capacity>2</capacity>
+    <rack_type>1 x 'Love Hoop' Rail</rack_type>
+    <latitude>-27.468061</latitude>
+    <longitude>153.023616</longitude>
+    <geolocation>-27.468061, 153.023616</geolocation>
+  </bike_rack>
+  <bike_rack id="111">
+    <suburb>Brisbane City</suburb>
+    <address>184 Edward Street, Brisbane City</address>
+    <location>Footpath - near Omega and Hardy Brothers store frontages</location>
+    <capacity>4</capacity>
+    <rack_type>2x bike rails</rack_type>
+    <latitude>-27.468994</latitude>
+    <longitude>153.027542</longitude>
+    <geolocation>-27.468994, 153.027542</geolocation>
+  </bike_rack>
+  <bike_rack id="112">
+    <suburb>Brisbane City</suburb>
+    <address>255 Queen Street</address>
+    <location>Apple Store, Queen Street frontage</location>
+    <capacity>5</capacity>
+    <rack_type>1x 5 bay rack</rack_type>
+    <latitude>-27.468246</latitude>
+    <longitude>153.027135</longitude>
+    <geolocation>-27.468246, 153.027135</geolocation>
+  </bike_rack>
+</bike_racks>
